@@ -3,9 +3,7 @@
 *
 *This is a very basic example which will help you to understand how LED can be operated by a push button with INTERNAL_PULLUP argument with pinMode() command.
 *
-*for more detail about this project please visit:
-*
-*
+*for more detail about this project please visit:https://arduinounomagic.blogspot.com/2019/03/how-to-operate-push-button-with-arduino.html#more
 *
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
 *
