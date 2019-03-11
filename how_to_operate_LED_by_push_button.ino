@@ -1,7 +1,7 @@
 /*
 *How to operate push button using Arduino uno
 *
-*This is a very basic example which will help you to understand how LED can be operated by a push button using arduino uno.
+*This is a very basic example which will help you to understand how LED can be operated by a push button with external pull down resistor using arduino uno.
 *
 *for more detail about this project please visit:
 *
