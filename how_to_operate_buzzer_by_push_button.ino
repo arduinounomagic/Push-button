@@ -3,11 +3,11 @@
 *
 *This is a very basic example which will help you to understand how buzzer can be operated by a push button using arduino uno.
 *
-*for more detail about this project please visit:https://arduinounomagic.blogspot.com/2019/03/how-to-operate-push-button-with-arduino.html#more
+*for more detail about this project please visit:https://arduinounomagic.com/2019/03/how-to-operate-push-button-with-arduino.html#more
 *
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
 *
-*for more projects based on Arduino uno please visit: https://arduinounomagic.blogspot.com/
+*for more projects based on Arduino uno please visit: https://arduinounomagic.com/
 */
 const int push_button=8; //connect push button to pin number 8
 
