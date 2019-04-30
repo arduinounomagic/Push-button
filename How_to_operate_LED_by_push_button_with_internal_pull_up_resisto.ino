@@ -3,11 +3,11 @@
 *
 *This is a very basic example which will help you to understand how LED can be operated by a push button with INTERNAL_PULLUP argument with pinMode() command.
 *
-*for more detail about this project please visit:https://arduinounomagic.blogspot.com/2019/03/how-to-operate-push-button-with-arduino.html#more
+*for more detail about this project please visit:https://arduinounomagic.com/2019/03/how-to-operate-push-button-with-arduino.html#more
 *
 *Copyright (C) 2007 Free Software Foundation, Inc. <arduinounomagic@gmail.com>
 *
-*for more projects based on Arduino uno please visit: https://arduinounomagic.blogspot.com/
+*for more projects based on Arduino uno please visit: https://arduinounomagic.com/
 */
 const int push_button=7; //Push buton is connected to pin 7
 const int LED = 8; // LED is connected to pin 8
